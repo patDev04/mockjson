@@ -1,6 +1,8 @@
 # mockjson
 Fake data for testing
-
-*practice api calls.
-*building components
-*practivce javascript/react/typscript and redux skills
+#
+Practice api calls.
+#
+Building components
+#
+Practice javascript/react/typscript and redux skills
