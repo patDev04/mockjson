@@ -1,6 +1,6 @@
 {
     "recipes": [
-        {
+      {
             "id": 1,
             "name": "Two-minute smoothie",
             "info": "Whizz up a low fat breakfast smoothie in no time. Use banana with other soft fruit, plus honey for a little sweetness and oats for slow-release fuel",
@@ -24,101 +24,221 @@
             ],
             "category": "breakfast"
         },
-         {
+        {
             "id": 2,
-            "name": "Two-minute smoothie",
-            "info": "Whizz up a low fat breakfast smoothie in no time. Use banana with other soft fruit, plus honey for a little sweetness and oats for slow-release fuel",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/two-minute-breakfast-smoothie-4a4722d.jpg",
+            "name": "Flambéed chicken with asparagus",
+            "info": "An elegant spring dinner party dish that looks and tastes very special. Perfect with new potatoes",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-52847_12-893ba80.jpg",
             "duration": [
                 {
                     "hours": null,
-                    "minutes": 2
+                    "minutes": 50
                 }
             ],
-            "difficulty": "easy",
-            "serves": 2,
+            "difficulty": "a challenge",
+            "serves": 4,
             "nutrition": [
                 {
-                    "calories": 156,
+                    "calories": 395,
                     "vegan": false,
-                    "vegetable": true,
+                    "vegetable": false,
                     "healthly": false,
                     "gluten": false
                 }
             ],
-            "category": "breakfast"
+            "category": "lunch"
         },
-         {
+        {
             "id": 3,
-            "name": "Two-minute smoothie",
-            "info": "Whizz up a low fat breakfast smoothie in no time. Use banana with other soft fruit, plus honey for a little sweetness and oats for slow-release fuel",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/two-minute-breakfast-smoothie-4a4722d.jpg",
+            "name": "Greek feta traybake",
+            "info": "Make this Greek-inspired traybake with feta, olives, pitta bread and tomatoes for an easy midweek meal, then use the leftovers for lunch the next day",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/feta_traybake-50733f6.jpg",
             "duration": [
                 {
                     "hours": null,
-                    "minutes": 2
+                    "minutes": 35
                 }
             ],
             "difficulty": "easy",
             "serves": 2,
             "nutrition": [
                 {
-                    "calories": 156,
+                    "calories": 391,
                     "vegan": false,
                     "vegetable": true,
                     "healthly": false,
                     "gluten": false
                 }
             ],
-            "category": "breakfast"
+            "category": "main course"
         },
-         {
+        {
             "id": 4,
-            "name": "Two-minute smoothie",
-            "info": "Whizz up a low fat breakfast smoothie in no time. Use banana with other soft fruit, plus honey for a little sweetness and oats for slow-release fuel",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/two-minute-breakfast-smoothie-4a4722d.jpg",
+            "name": "Blueberry bakewell muffins",
+            "info": "These easy blueberry muffins have a delightfully jammy centre and crunchy crumble topping – a tasty treat for teatime or packed lunch",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blueberry-bakewell-muffins-c6cff59.jpg",
             "duration": [
                 {
                     "hours": null,
-                    "minutes": 2
+                    "minutes": 40
                 }
             ],
             "difficulty": "easy",
-            "serves": 2,
+            "serves": "makes 12",
             "nutrition": [
                 {
-                    "calories": 156,
+                    "calories": 312,
                     "vegan": false,
-                    "vegetable": true,
+                    "vegetable": false,
                     "healthly": false,
                     "gluten": false
                 }
             ],
-            "category": "breakfast"
+            "category": "dessert"
         },
-         {
+        {
             "id": 5,
-            "name": "Two-minute smoothie",
-            "info": "Whizz up a low fat breakfast smoothie in no time. Use banana with other soft fruit, plus honey for a little sweetness and oats for slow-release fuel",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/two-minute-breakfast-smoothie-4a4722d.jpg",
+            "name": "Sweet potato and coconut soup",
+            "info": "Blitz up this simple vegan soup in just 20 minutes for a quick lunch or starter. Sweet potatoes, coconut and Thai green curry paste make for a flavourful combination, best enjoyed with warm naan bread",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-338728_11-1ed1b41.jpg?",
             "duration": [
                 {
                     "hours": null,
-                    "minutes": 2
+                    "minutes": 20
+                }
+            ],
+            "difficulty": "easy",
+            "serves": 4,
+            "nutrition": [
+                {
+                    "calories": 240,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": false
+                }
+            ],
+            "category": "main course"
+        },
+        {
+            "id": 6,
+            "name": "Little lemon meringue pies",
+            "info": "These weeekend puds are light and fluffy with a tangy filling",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-49476_11-67f8495.jpg",
+            "duration": [
+                {
+                    "hours": 1,
+                    "minutes": 5
+                }
+            ],
+            "difficulty": "more effort",
+            "serves": 8,
+            "nutrition": [
+                {
+                    "calories": 500,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": false
+                }
+            ],
+            "category": "dessert"
+        },
+        {
+            "id": 7,
+            "name": "Banana smoothie",
+            "info": "Quick and easy to make, this banana, prune, almond milk and nut butter smoothie is an ideal on-the-go energy boost",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/afternoon-pick-me-up-smoothie-506a768.jpg",
+            "duration": [
+                {
+                    "hours": null,
+                    "minutes": 5
                 }
             ],
             "difficulty": "easy",
             "serves": 2,
             "nutrition": [
                 {
-                    "calories": 156,
+                    "calories": 250,
                     "vegan": false,
-                    "vegetable": true,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": true
+                }
+            ],
+            "category": "drink"
+        },
+        {
+            "id": 8,
+            "name": "Roast fillet of beef with mushroom stuffing",
+            "info": "Serve up a spectacular centrepiece of roast beef with a rich stuffing, and a clever twist on Yorkshire puddings",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-411525_11-82c280e.jpg",
+            "duration": [
+                {
+                    "hours": 1,
+                    "minutes": 30
+                }
+            ],
+            "difficulty": "a challenge",
+            "serves": 6,
+            "nutrition": [
+                {
+                    "calories": 499,
+                    "vegan": false,
+                    "vegetable": false,
                     "healthly": false,
                     "gluten": false
                 }
             ],
-            "category": "breakfast"
+            "category": "main course"
+        },
+        {
+            "id": 9,
+            "name": "Long amaretto sours",
+            "info": "Add some glamour to an al fresco lunch by serving these cocktails to start",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-424799_11-0d19e5b.jpg",
+            "duration": [
+                {
+                    "hours": null,
+                    "minutes": 5
+                }
+            ],
+            "difficulty": "easy",
+            "serves": 134,
+            "nutrition": [
+                {
+                    "calories": 134,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": false
+                }
+            ],
+            "category": "drink"
+        },
+        {
+            "id": 10,
+            "name": "Blackened roast salmon with avocado & mango salsa",
+            "info": "Use punchy Cajun spices to flavour this salmon dish. The fresh avocado and mango salsa and the zingy lime juice cuts through the spicy flavours of the salmon",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blackened_salmon-070c765.jpg",
+            "duration": [
+                {
+                    "hours": 1,
+                    "minutes": 0
+                }
+            ],
+            "difficulty": "more effort",
+            "serves": 6,
+            "nutrition": [
+                {
+                    "calories": 589,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": true
+                }
+            ],
+            "category": "main course"
         }
     ]
 }
