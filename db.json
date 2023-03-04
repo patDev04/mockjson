@@ -23,31 +23,6 @@
                 }
             ],
             "category": "breakfast"
-        },
-        {
-            "id": 2,
-            "name": "Flambéed chicken with asparagus",
-            "info": "An elegant spring dinner party dish that looks and tastes very special. Perfect with new potatoes",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-52847_12-893ba80.jpg",
-            "duration": [
-                {
-                    "hours": null,
-                    "minutes": 50
-                }
-            ],
-            "difficulty": "a challenge",
-            "serves": 4,
-            "nutrition": [
-                {
-                    "calories": 395,
-                    "vegan": false,
-                    "vegetable": false,
-                    "healthly": false,
-                    "gluten": false
-                }
-            ],
-            "category": "lunch"
-        },
-           
+        }
     ]
 }
