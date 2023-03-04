@@ -143,6 +143,102 @@
                 }
             ],
             "category": "dessert"
+        },
+          {
+            "id": 7,
+            "name": "Banana smoothie",
+            "info": "Quick and easy to make, this banana, prune, almond milk and nut butter smoothie is an ideal on-the-go energy boost",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/afternoon-pick-me-up-smoothie-506a768.jpg",
+            "duration": [
+                {
+                    "hours": null,
+                    "minutes": 5
+                }
+            ],
+            "difficulty": "easy",
+            "serves": 2,
+            "nutrition": [
+                {
+                    "calories": 250,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": true
+                }
+            ],
+            "category": "drink"
+        },
+        {
+            "id": 8,
+            "name": "Roast fillet of beef with mushroom stuffing",
+            "info": "Serve up a spectacular centrepiece of roast beef with a rich stuffing, and a clever twist on Yorkshire puddings",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-411525_11-82c280e.jpg",
+            "duration": [
+                {
+                    "hours": 1,
+                    "minutes": 30
+                }
+            ],
+            "difficulty": "a challenge",
+            "serves": 6,
+            "nutrition": [
+                {
+                    "calories": 499,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": false
+                }
+            ],
+            "category": "main course"
+        },
+        {
+            "id": 9,
+            "name": "Long amaretto sours",
+            "info": "Add some glamour to an al fresco lunch by serving these cocktails to start",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-424799_11-0d19e5b.jpg",
+            "duration": [
+                {
+                    "hours": null,
+                    "minutes": 5
+                }
+            ],
+            "difficulty": "easy",
+            "serves": 134,
+            "nutrition": [
+                {
+                    "calories": 134,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": false
+                }
+            ],
+            "category": "drink"
+        },
+        {
+            "id": 10,
+            "name": "Blackened roast salmon with avocado & mango salsa",
+            "info": "Use punchy Cajun spices to flavour this salmon dish. The fresh avocado and mango salsa and the zingy lime juice cuts through the spicy flavours of the salmon",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blackened_salmon-070c765.jpg",
+            "duration": [
+                {
+                    "hours": 1,
+                    "minutes": 0
+                }
+            ],
+            "difficulty": "more effort",
+            "serves": 6,
+            "nutrition": [
+                {
+                    "calories": 589,
+                    "vegan": false,
+                    "vegetable": false,
+                    "healthly": false,
+                    "gluten": true
+                }
+            ],
+            "category": "main course"
         }
            
     ]
